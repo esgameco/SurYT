@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+const App = () => {
     return (
         <p>S_ur</p>
     );
